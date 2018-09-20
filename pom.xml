@@ -82,5 +82,6 @@
 	<modules>
 		<module>MavenEnfant1/pom.xml</module>
 		<module>MavenEnfant2/pom.xml</module>
+		<module>AppliWeb</module>
 	</modules>
 </project>
