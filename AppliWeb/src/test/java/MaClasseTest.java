@@ -2,6 +2,8 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
+import test.MaClasse;
+
 public class MaClasseTest {
 
 @Test
